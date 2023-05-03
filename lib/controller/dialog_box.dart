@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:todoapp/my_button.dart';
+import 'package:todoapp/controller/my_button.dart';
 
 class DialogBox extends StatelessWidget {
   final controller;
